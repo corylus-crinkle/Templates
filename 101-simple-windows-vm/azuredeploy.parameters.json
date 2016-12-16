@@ -3,16 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "pjbstage1"
     },
     "adminUsername": {
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "P\"ssw0rd1!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "pjb8162"
+    },
+    "location":{
+      "value":"West US"
+    },
+    "sizeOfDiskInGB":{
+      "value":"20"
     }
   }
 }
