@@ -28,7 +28,7 @@
     },
     "location":{
       "type": "string",
-      "defaultvalue":"Weset US"'
+      "defaultvalue":"Wset US",
       "allowedvalues":[
         "West US",
         "East US 2"
@@ -36,7 +36,7 @@
       "metadata":{
         "description":"Restricts choice to where the premium storage is located in the US"
       }
-    }
+    },
     "windowsOSVersion": {
       "type": "string",
       "defaultValue": "2012-R2-Datacenter",
